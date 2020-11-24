@@ -1,0 +1,29 @@
+.section3{
+    margin: 1%;
+}
+
+.product_container {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+
+  .card{
+      margin-top: 16px;
+  }
+  
+  @media screen and (max-width: 699px) {
+    .product_container {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .card {
+      max-width: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }

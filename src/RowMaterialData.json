@@ -1,0 +1,38 @@
+[
+    {
+        "product":"Product 1",
+        "material":[{ "value": "Item1a", "label": "Item1 a" },
+            { "value": "Item1b", "label": "Item1 b" },
+            { "value": "Item1c", "label": "Item1 c" }]
+    },
+    {
+        "product":"Product 2",
+        "material":[{ "value": "Item2d", "label": "Item2 d" },
+            { "value": "Item2e", "label": "Item2 e" },
+            { "value": "Item2f", "label": "Item2 f" }]
+    },
+    {
+        "product":"Product 3",
+        "material":[{ "value": "Item3g", "label": "Item3 g" },
+            { "value": "Item3h", "label": "Item3 h" },
+            { "value": "Item3i", "label": "Item3 i" }]
+    },
+    {
+        "product":"Product 4",
+        "material":[{ "value": "Item4a", "label": "Item4 a" },
+            { "value": "Item4b", "label": "Item4 b" },
+            { "value": "Item4c", "label": "Item4 c" }]
+    },
+    {
+        "product":"Product 5",
+        "material":[{ "value": "Item5d", "label": "Item5 d" },
+            { "value": "Item5e", "label": "Item5 e" },
+            { "value": "Item5f", "label": "Item5 f" }]
+    },
+    {
+        "product":"Product 6",
+        "material":[{ "value": "Item6g", "label": "Item6 g" },
+            { "value": "Item6h", "label": "Item6 h" },
+            { "value": "Item6i", "label": "Item6 i" }]
+    }
+]
