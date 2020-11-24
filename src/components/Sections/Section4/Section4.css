@@ -1,18 +1,17 @@
-
-.section4{
-    display: flex;
-    justify-content: space-between;
-    max-width: 80%;
-    margin-left: 10%;
+.section4 {
+	display: flex;
+	justify-content: space-between;
+	max-width: 80%;
+	margin-left: 10%;
 }
 
-.page_btn{
-    min-width: 15%;
-    background:rgb(111, 131, 247);
+.page_btn {
+	min-width: 15%;
+	background: rgb(111, 131, 247);
 
-    height: 38px;
-    border-radius: 5px;
-    border: 1px solid rgb(211, 210, 210);
+	height: 38px;
+	border-radius: 5px;
+	border: 1px solid rgb(211, 210, 210);
 	margin-left: 1%;
 	color: rgb(66, 65, 65);
 }
